@@ -7,5 +7,3 @@
 - 👯 I’m looking to contribute to Open Source projects.
 - :zap: I love teaching, travelling, binge-coding and watching series.
 - 🥅 2021 Goals: Learn Python.
-
-### :handshake: Connect with me:
