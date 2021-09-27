@@ -1,8 +1,8 @@
 ### Hi there, I'm Dipti Rani 👋
 
-## I'm a Computer Engineer, Developer and a Linux Enthusiast !
+## I'm a Computer Engineer, and Frontend Developer !
 
-- 🔭 I’m currently working on [OnlineTest.com (An online test conducting app)](https://github.com/diptirani16/OnlineTest.com.git).
+- 🔭 I’m currently working on [Expense Manager (An app for managing Income & Expenses)](https://github.com/diptirani16/Expense-Manager).
 - 🌱 I’m currently learning Reactjs.
 - 👯 I’m looking to contribute to Open Source projects.
 - :zap: I love teaching, sketching, travelling, binge-coding and watching series.
