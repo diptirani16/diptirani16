@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on [Mutual Fund Analyzer (An app for analyzing Mutual Fund)](https://github.com/diptirani16/Mutual-Fund-Analyzer).
 - 🌱 I’m currently learning Reactjs.
-- 👯 I’m looking to contribute to Open Source projects.
 - :zap: I love teaching, sketching, travelling, binge-coding and watching series.
 - 🥅 2021 Goals: Have internship in front end development.
  
