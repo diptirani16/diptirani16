@@ -7,4 +7,4 @@
 - :zap: I love teaching, sketching, travelling, binge-coding and watching series.
 - 🥅 2021 Goals: Have internship in front end development.
  
-![Top Langs](https://github-language-stats.vercel.app/api/top-langs?username=diptirani16)
+[![Top Langs](https://github-language-stats.vercel.app/api/top-langs?username=diptirani16)](https://github.com/diptirani16/github-readme-stats)
