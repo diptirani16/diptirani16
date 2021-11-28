@@ -22,9 +22,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=Docker&style=social)&nbsp;&nbsp;
 
 <br />
-<br />
-
----
 
 
 ![Dipti's Github Stats](https://github-readme-stats.vercel.app/api?username=diptirani16&count_private=true&show_icons=true&include_all_commits=true)
