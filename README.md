@@ -1,6 +1,6 @@
 ### Hi there, I'm Dipti Rani 👋
 
-## I'm a Computer Engineer, and a Software Developer !
+## I'm a Software Developer !
 
 - 🔭 I’m currently working on practice projects related to NodeJS.
 - 🌱 I’m currently learning Nodejs.
