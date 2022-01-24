@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on practice projects related to NodeJS.
 - 🌱 I’m currently learning Nodejs.
 - :zap: I love teaching, sketching, travelling, binge-coding and watching series.
-- 🥅 2021 Goals: Have internship in front end development.
+- 🥅 2022 Goals: Learn Full stack Development and get a good job till EOY.
 
 
 **Languages and Tools:** 
@@ -14,6 +14,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
 ![C](https://img.shields.io/badge/-c-black?logo=c&style=social)&nbsp;&nbsp;
+![Node](https://img.shields.io/badge/-node-black?logo=node&style=social)&nbsp;&nbsp;
+![Express](https://img.shields.io/badge/-express-black?logo=express&style=social)&nbsp;&nbsp;
 ![Material UI](https://img.shields.io/badge/-Material_UI-black?logo=material-ui&style=social)&nbsp;&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
 ![React](https://img.shields.io/badge/-React-black?logo=react&style=social)&nbsp;&nbsp;
