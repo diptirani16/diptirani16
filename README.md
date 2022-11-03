@@ -2,7 +2,7 @@
 
 ## I'm a Software Developer !
 
-- 🔭 I’m currently working on practice projects related to NodeJS.
+- 🔭 I’m currently working on a project, freepixel which is a stock image kind of project.
 - 🌱 I’m currently learning Nodejs.
 - :zap: I love teaching, sketching, travelling, binge-coding and watching series.
 - 🥅 2022 Goals: Learn Full stack Development and get a good job till EOY.
